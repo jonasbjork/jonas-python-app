@@ -10,7 +10,7 @@ def hello():
   return f'''
     <html>
       <body style="font-family: Arial; padding: 50px;">
-      <h1>Jensen Python App</h1>
+      <h1>Jensen School Python App</h1>
       <p>Version: {VERSION}</p>
       <p>GitOps CI/CD Demo with ArgoCD</p>
       </body>
